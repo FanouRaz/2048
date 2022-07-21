@@ -1,5 +1,3 @@
-import numpy as np
-
 COULEURS_CASES = {
     'back': ("#010B6F80"),
     0: ("#999898"),
