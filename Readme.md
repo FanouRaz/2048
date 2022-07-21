@@ -14,3 +14,6 @@
 
 ## Compile 
     python3 main.py
+
+## How to play
+    We play it with the keyboard with the key Up, Down, Left and Right
